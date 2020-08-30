@@ -1,0 +1,2 @@
+data/images/train/0.jpg
+data/images/train/1.jpg
